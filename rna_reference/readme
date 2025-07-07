@@ -1,1 +1,2 @@
-# RNA Reference file index with bowtie
+# RNA Reference file index with STAR
+# The directory also contains GTF annotation file for STAR alignment
